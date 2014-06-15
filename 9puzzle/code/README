@@ -1,0 +1,17 @@
+Instructions for user defined input:
+1)Uncomment line 117 and comment line 116 when taking input from user.The start configuration will be asked at the prompt.
+2)Do vice-versa for scramble.
+
+Instructions for C++ code:
+1)Compile code using g++.
+>>g++ filename.cpp
+2)Redirect output to file to see the output in the file.
+>>./a.out log.txt
+
+To change values w and SOLDEPTH.
+Open the .cpp file and change content of #define SOLDEPTH 10 for changing SOLDEPTH.
+To change w change value of float w=0.5
+
+Note:Don't change it to 0 as A* may go in an infinte loop for large SOLDEPTH. 
+
+Note:While taking user input,the user input should be achievable from the goal configuration inputted.

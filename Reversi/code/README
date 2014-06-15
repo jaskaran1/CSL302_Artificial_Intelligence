@@ -1,0 +1,9 @@
+Compile the code:
+1)g++ 2011cs1012_p2_alpha_beta.cpp
+2)./a.out
+
+To vary depth change the value of the Macro PLYLIMIT.
+
+To vary the weights of heuristic functions you can change the value of w1,w2 and w3.
+
+All observations have been made against a reversi playing bot on the internet the link to which is given in the pdf.
