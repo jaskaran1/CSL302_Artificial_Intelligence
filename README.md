@@ -2,4 +2,4 @@ This repo contains 3 programming projects done in the course CSL302-Artificial I
 
 1)9 puzzle game solver using different search techniques and analysis.
 2)Reversi game player-used Alpha-Beta pruning for creating the intelligence for the Reversi player
-3)MLP-Multi Layer Perceptron for prediction of Diabetes.
+3)MLP-Multi Layer Perceptron for prediction on a given dataset.97% accuracy
